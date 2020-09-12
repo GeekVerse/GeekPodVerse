@@ -13,7 +13,7 @@
     <itunes:email>dailygeekverse@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image src="geekverse_logo.png" />
+<itunes:image href="GeekVerse.github.io/geekverse_logo.png" />
 <itunes:category text="Category Name"></itunes:category>
 
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
