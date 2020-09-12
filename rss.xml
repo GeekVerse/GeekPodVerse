@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
-<title>Title of Podcast</title>
-<link>http://www.example.com/</link>
+<title>GeekPodVerse</title>
+<link>https://www.youtube.com/c/DailyGeekverse/</link>
 <language>en-us</language>
-<itunes:subtitle>Subtitle of podcast</itunes:subtitle>
-<itunes:author>Author Name</itunes:author>
-<itunes:summary>Description of podcast.</itunes:summary>
-<description>Description of podcast.</description>
+<itunes:subtitle>GeekPodVerse</itunes:subtitle>
+<itunes:author>GeekVerse</itunes:author>
+<itunes:summary>GeekVerse Podcast</itunes:summary>
+<description>GeekVerse Podcast</description>
 <itunes:owner>
-    <itunes:name>Owner Name</itunes:name>
+    <itunes:name>GeekVerse</itunes:name>
     <itunes:email>dailygeekverse@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
