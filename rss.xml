@@ -10,10 +10,10 @@
 <description>Description of podcast.</description>
 <itunes:owner>
     <itunes:name>Owner Name</itunes:name>
-    <itunes:email>amaeth.petrenko@gmail.com</itunes:email>
+    <itunes:email>dailygeekverse@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="http://www.example.com/podcast-icon.jpg" />
+<itunes:image src="geekverse_logo.png" />
 <itunes:category text="Category Name"></itunes:category>
 
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
