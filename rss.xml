@@ -3,7 +3,7 @@
 <channel>
 <title>GeekPodVerse</title>
 <link>https://www.youtube.com/c/DailyGeekverse/</link>
-<language>en-us</language>
+<language>he-il</language>
 <itunes:subtitle>GeekPodVerse</itunes:subtitle>
 <itunes:author>GeekVerse</itunes:author>
 <itunes:summary>GeekVerse Podcast</itunes:summary>
@@ -18,16 +18,16 @@
 
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
-    <title>Title of Podcast Episode</title>
-    <itunes:summary>Description of podcast episode content</itunes:summary>
-    <description>Description of podcast episode content</description>
-    <link>http://example.com/podcast-1</link>
-    <enclosure url="http://docs.google.com/uc?export=open&amp;id=1QupntIdoAS-Uee5cLn0XdDyr_qQTQWex" type="audio/mp3" length="11156512"></enclosure>
-    <pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
-    <itunes:author>Author Name</itunes:author>
-    <itunes:duration>00:07:44</itunes:duration>
+    <title>GeekPodVerse #3 - (אנימה ומנגה, מולאן, "באטמן" מתעכב? אנטי צ'יט בפול גאייז (אורח: אמנון מהאנימה</title>
+    <itunes:summary>GeekPodVerse #3 - (אנימה ומנגה, מולאן, "באטמן" מתעכב? אנטי צ'יט בפול גאייז (אורח: אמנון מהאנימה</itunes:summary>
+    <description>GeekPodVerse #3 - (אנימה ומנגה, מולאן, "באטמן" מתעכב? אנטי צ'יט בפול גאייז (אורח: אמנון מהאנימה</description>
+    <link>https://www.youtube.com/watch?v=gZazKudsyvQ</link>
+    <enclosure url="http://docs.google.com/uc?export=open&amp;id=1QupntIdoAS-Uee5cLn0XdDyr_qQTQWex" type="audio/mp3" length="297071848"></enclosure>
+    <pubDate>Saturday, September 12, 2020, 1:29:14 PM +0000</pubDate>
+    <itunes:author>GeekVerse</itunes:author>
+    <itunes:duration>02:03:46</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
-    <guid>http://example.com/podcast-1</guid>
+    <guid>https://www.youtube.com/watch?v=gZazKudsyvQ</guid>
 </item> 
 <!--END REPEAT--> 
    
