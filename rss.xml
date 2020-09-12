@@ -29,6 +29,19 @@
     <itunes:explicit>no</itunes:explicit>
     <guid>https://www.youtube.com/watch?v=gZazKudsyvQ</guid>
 </item> 
+    
+    <item>
+    <title>GeekPodVerse #2 - בלאק פנתר, העתיד של הקומיקס, פורנייט ומארוול המנדלוריאן 2 (אורח: יעקב מקומיקאזה)</title>
+    <itunes:summary>בלאק פנתר, העתיד של הקומיקס, פורנייט ומארוול המנדלוריאן 2 (אורח: יעקב מקומיקאזה)</itunes:summary>
+    <description>בלאק פנתר, העתיד של הקומיקס, פורנייט ומארוול המנדלוריאן 2 (אורח: יעקב מקומיקאזה)</description>
+    <link>https://www.youtube.com/watch?v=hCNzxDUUXos</link>
+    <enclosure url="https://www.googleapis.com/drive/v3/files/1lrBWqjFNTGMurotuiLrhIade2McRTlE8?alt=media&amp;key=AIzaSyBUB3BGIe96wbQucrc9fdKmS3JE-At5ddY" type="audio/mp3" length="300132354"></enclosure>
+    <pubDate>Saturday, Saturday, September 12, 2020, 1:31:43 PM +0000</pubDate>
+    <itunes:author>GeekVerse</itunes:author>
+    <itunes:duration>02:05:03</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>https://www.youtube.com/watch?v=gZazKudsyvQ</guid>
+</item> 
 <!--END REPEAT--> 
    
 </channel>
